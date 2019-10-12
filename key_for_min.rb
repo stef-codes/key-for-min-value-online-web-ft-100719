@@ -3,7 +3,7 @@
 
 def key_for_min_value(name_hash)
   name_hash.each do |value|
-    min_value = 
-    name_hash.value <=>
+    min_value = name_hash[0]
+    if value < m
   end 
 end
